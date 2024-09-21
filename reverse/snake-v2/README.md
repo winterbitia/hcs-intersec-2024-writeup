@@ -30,4 +30,4 @@ With this knowledge in hand, I modified the win function so it triggers without 
 
 ![](assets/5.png)
 
-`Flag: HCS{what_a_cheater!}
+`Flag: HCS{what_a_cheater!}`

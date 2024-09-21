@@ -46,5 +46,7 @@ The next two questions asked for the names of the files related in the attack, w
 
 Answering all questions correctly gave me the flag!
 
+![](assets/6.png)
+
 `Flag: HCS{asik_lho_belajar_analisis_log_server}`
 
